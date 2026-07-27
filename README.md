@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
