@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
