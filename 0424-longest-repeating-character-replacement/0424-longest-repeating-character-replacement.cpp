@@ -6,11 +6,12 @@ public:
         for(int right=0;right<s.size();right++){
             freq[s[right]-'A']++;
             maxfreq=max(maxfreq,freq[s[right]-'A']);
+
             if((right-left+1)-maxfreq>k){
                 freq[s[left]-'A']--;
                 left++;
             }
-            maxlen=max(maxlen,right-left+1);
+            maxlen=max(right-left+1,maxlen);
         }
         return maxlen;
     }
