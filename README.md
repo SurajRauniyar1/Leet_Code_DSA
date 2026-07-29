@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -84,8 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
