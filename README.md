@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
