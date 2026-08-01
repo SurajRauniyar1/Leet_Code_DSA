@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
