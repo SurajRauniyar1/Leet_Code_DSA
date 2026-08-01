@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
