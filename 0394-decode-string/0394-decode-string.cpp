@@ -1,31 +1,47 @@
 class Solution {
 public:
     string decodeString(string s) {
-        int i = 0; // index ref
-        return decode(s, i);
-    }
 
-    string decode(const string& s, int& i) {
-      string result = "";
-      int num = 0;
-      while(i < s.size()) {
-        char c = s[i];
-        if (isdigit(c)) {
-          num = num * 10 + (c - '0'); // build number
-          i++;
-        } else if (c == '[') {
-          i++;
-          string inner = decode(s, i); // recurse
-          for (int k = 0; k < num; k++) result += inner;
-          num = 0; // reset
-        } else if (c == ']') {
-          i++; // skip ']'
-          return result; // return to caller
-        } else {
-          result += c; // ok, normal char
-          i++;
+        stack<int> countStack;
+        stack<string> stringStack;
+
+        string curr = "";
+        int num = 0;
+
+        for(char ch : s){
+
+            if(isdigit(ch)){
+                num = num * 10 + (ch - '0');
+            }
+
+            else if(ch == '['){
+                countStack.push(num);
+                stringStack.push(curr);
+
+                num = 0;
+                curr = "";
+            }
+
+            else if(ch == ']'){
+
+                int repeat = countStack.top();
+                countStack.pop();
+
+                string prev = stringStack.top();
+                stringStack.pop();
+
+                while(repeat--){
+                    prev += curr;
+                }
+
+                curr = prev;
+            }
+
+            else{
+                curr += ch;
+            }
         }
-      }
-      return result;
+
+        return curr;
     }
 };
