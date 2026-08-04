@@ -1,27 +1,28 @@
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
-        string ans1 = "";
-        string ans2 = "";
+        string s1 ="";
+        string s2 ="";
 
         for(char ch:s){
-            if(ch != '#'){
-                ans1.push_back(ch);
-            }else if(!ans1.empty()) {
-                ans1.pop_back();
-            } 
+            if(ch!='#'){
+                s1.push_back(ch);
+            }
+            else if(!s1.empty()){
+                s1.pop_back();
+            }
         }
         for(char ch:t){
-            if(ch != '#'){
-                ans2.push_back(ch);
-            }else if(!ans2.empty()){
-                ans2.pop_back();
-            } 
+            if(ch!='#'){
+                s2.push_back(ch);
+            }
+            else if(!s2.empty()){
+                s2.pop_back();
+            }
         }
-        if(ans1 == ans2){
+        if(s1==s2){
             return true;
-        }else{
-            return false;
         }
+        else return false;
     }
 };
