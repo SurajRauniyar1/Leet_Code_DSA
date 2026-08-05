@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,4 +151,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
