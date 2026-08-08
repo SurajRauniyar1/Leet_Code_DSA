@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
