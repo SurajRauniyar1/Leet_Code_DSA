@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0394-decode-string) |
 ## Range Minimum/Maximum Query
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
