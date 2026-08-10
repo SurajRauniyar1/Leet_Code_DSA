@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -172,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
