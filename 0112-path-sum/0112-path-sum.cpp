@@ -16,8 +16,8 @@ public:
         if(!root->left && !root->right)
             if(root->val==targetSum) return true;
         int remainingSum = targetSum-root->val;
-        int leftPart = hasPathSum(root->left,remainingSum);
-        int rightPart = hasPathSum(root->right,remainingSum);
-        return leftPart || rightPart;
+        return (hasPathSum(root->left,remainingSum) ||
+        hasPathSum(root->right,remainingSum));
+      
     }
 };
