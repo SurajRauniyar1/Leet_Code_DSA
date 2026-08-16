@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
