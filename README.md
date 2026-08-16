@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
@@ -295,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
