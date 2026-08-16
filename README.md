@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
