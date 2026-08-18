@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
