@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
