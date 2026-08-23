@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
