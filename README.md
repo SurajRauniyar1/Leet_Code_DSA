@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
