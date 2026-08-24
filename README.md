@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1046-last-stone-weight) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
