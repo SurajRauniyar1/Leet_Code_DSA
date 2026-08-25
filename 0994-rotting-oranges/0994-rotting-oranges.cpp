@@ -2,76 +2,85 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
 
-        int rows = grid.size();
-        int cols = grid[0].size();
+        int r = grid.size();
+        int c = grid[0].size();
 
         queue<pair<int, int>> q;
 
         int fresh = 0;
+        int minutes = 0;
 
-        
-        for(int r = 0; r < rows; r++) {
+        // Put all rotten oranges in queue
+        // and count fresh oranges
+        for(int i = 0; i < r; i++) {
+            for(int j = 0; j < c; j++) {
 
-            for(int c = 0; c < cols; c++) {
-
-                if(grid[r][c] == 2) {
-                    q.push({r, c});
+                if(grid[i][j] == 1) {
+                    fresh++;
                 }
 
-                else if(grid[r][c] == 1) {
-                    fresh++;
+                if(grid[i][j] == 2) {
+                    q.push({i, j});
                 }
             }
         }
 
-        int minutes = 0;
-
-        // 2. BFS
+        // BFS
         while(!q.empty() && fresh > 0) {
 
+            // Number of rotten oranges
+            // at the beginning of this minute
             int size = q.size();
 
-            // Process all oranges from current minute
             for(int i = 0; i < size; i++) {
 
-                int r = q.front().first;
-                int c = q.front().second;
+                int row = q.front().first;
+                int col = q.front().second;
 
                 q.pop();
 
                 // UP
-                if(r - 1 >= 0 && grid[r - 1][c] == 1) {
-                    grid[r - 1][c] = 2;
+                if(row - 1 >= 0 &&
+                   grid[row - 1][col] == 1) {
+
+                    grid[row - 1][col] = 2;
                     fresh--;
-                    q.push({r - 1, c});
+                    q.push({row - 1, col});
                 }
 
                 // DOWN
-                if(r + 1 < rows && grid[r + 1][c] == 1) {
-                    grid[r + 1][c] = 2;
+                if(row + 1 < r &&
+                   grid[row + 1][col] == 1) {
+
+                    grid[row + 1][col] = 2;
                     fresh--;
-                    q.push({r + 1, c});
+                    q.push({row + 1, col});
                 }
 
                 // LEFT
-                if(c - 1 >= 0 && grid[r][c - 1] == 1) {
-                    grid[r][c - 1] = 2;
+                if(col - 1 >= 0 &&
+                   grid[row][col - 1] == 1) {
+
+                    grid[row][col - 1] = 2;
                     fresh--;
-                    q.push({r, c - 1});
+                    q.push({row, col - 1});
                 }
 
                 // RIGHT
-                if(c + 1 < cols && grid[r][c + 1] == 1) {
-                    grid[r][c + 1] = 2;
+                if(col + 1 < c &&
+                   grid[row][col + 1] == 1) {
+
+                    grid[row][col + 1] = 2;
                     fresh--;
-                    q.push({r, c + 1});
+                    q.push({row, col + 1});
                 }
             }
 
+            // One complete BFS level = one minute
             minutes++;
         }
 
-        // 3. If fresh oranges remain, impossible
+        // Fresh oranges still remaining
         if(fresh > 0) {
             return -1;
         }
