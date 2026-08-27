@@ -6,6 +6,8 @@ class Solution(object):
         """
         mp = {}
         for num in nums:
-            mp[num] = mp.get(num,0)+1
+            mp[num] =mp.get(num,0)+1
+
             if mp[num] > len(nums)//2:
                 return num
+        
