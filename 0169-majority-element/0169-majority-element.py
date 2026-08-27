@@ -4,10 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        mp={}
+        mp = {}
         for num in nums:
-            mp[num]=mp.get(num,0)+1
-
-            if mp[num]> len(nums)//2:
+            mp[num] = mp.get(num,0)+1
+            if mp[num] > len(nums)//2:
                 return num
-        
