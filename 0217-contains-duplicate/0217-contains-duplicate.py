@@ -4,10 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        seen=set()
-
+        mp = set()
         for num in nums:
-            if num in seen:
+            if num in mp:
                 return True
-            seen.add(num)
+            mp.add(num)
         return False
