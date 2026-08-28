@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
