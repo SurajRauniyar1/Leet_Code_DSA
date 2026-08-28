@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0071-simplify-path) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
