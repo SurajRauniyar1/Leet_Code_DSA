@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0207-course-schedule) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
