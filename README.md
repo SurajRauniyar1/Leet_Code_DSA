@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
