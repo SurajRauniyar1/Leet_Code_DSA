@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
