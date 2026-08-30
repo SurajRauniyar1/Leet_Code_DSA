@@ -512,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
