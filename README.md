@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1920-build-array-from-permutation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
