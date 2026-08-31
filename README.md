@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
