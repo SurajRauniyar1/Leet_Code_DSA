@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3028-ant-on-the-boundary) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
