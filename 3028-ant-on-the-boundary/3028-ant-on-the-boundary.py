@@ -6,6 +6,6 @@ class Solution:
             position+=num
             if position==0:
                 count+=1
-        else:
-            return count
+        
+        return count
         
