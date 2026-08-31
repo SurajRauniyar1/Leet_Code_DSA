@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1920-build-array-from-permutation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1920-build-array-from-permutation) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
