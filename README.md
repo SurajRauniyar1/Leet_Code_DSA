@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0202-happy-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0071-simplify-path) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0128-longest-consecutive-sequence) |
