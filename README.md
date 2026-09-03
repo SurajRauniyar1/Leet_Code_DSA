@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
