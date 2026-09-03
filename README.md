@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
