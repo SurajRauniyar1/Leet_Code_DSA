@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1360-number-of-days-between-two-dates](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
+| [1360-number-of-days-between-two-dates](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1544-make-the-string-great) |
 | [1816-truncate-sentence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1816-truncate-sentence) |
