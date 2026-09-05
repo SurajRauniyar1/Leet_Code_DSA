@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1920-build-array-from-permutation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1360-number-of-days-between-two-dates](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1360-number-of-days-between-two-dates) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
