@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3028-ant-on-the-boundary) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
