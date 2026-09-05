@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -600,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
