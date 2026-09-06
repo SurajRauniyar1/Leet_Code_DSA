@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1544-make-the-string-great) |
 | [1816-truncate-sentence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3146-permutation-difference-between-two-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3146-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
