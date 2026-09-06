@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0168-excel-sheet-column-title) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0074-search-a-2d-matrix) |
