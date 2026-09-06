@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0204-count-primes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0045-jump-game-ii) |
+| [0179-largest-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0229-majority-element-ii) |
