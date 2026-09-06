@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1920-build-array-from-permutation) |
+| [2007-find-original-array-from-doubled-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2007-find-original-array-from-doubled-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
+| [2007-find-original-array-from-doubled-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Matrix
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2007-find-original-array-from-doubled-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
