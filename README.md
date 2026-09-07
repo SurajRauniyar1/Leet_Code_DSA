@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0400-nth-digit) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0402-remove-k-digits) |
