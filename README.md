@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0392-is-subsequence) |
@@ -644,4 +645,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
