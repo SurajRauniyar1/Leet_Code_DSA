@@ -1,10 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         mp={}
-        np={}
-
-        for ch in s:
-            mp[ch]=mp.get(ch,0)+1
+        s=list(s)
         for ch in t:
-            np[ch]=np.get(ch,0)+1
-        return mp==np
+            mp[ch]=mp.get(ch,0)+1
+        for i in range(len(s)):
+            if s[i] not in mp:
+                return False
+            mp[s[i]]-=1
+            if mp[s[i]]<0:
+                return False
+        return True
+        
