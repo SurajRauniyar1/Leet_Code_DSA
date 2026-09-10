@@ -3,8 +3,8 @@ class Solution:
         mp={}
         for num in nums:
             mp[num]=mp.get(num,0)+1
-        selected=sorted(mp.items(), key=lambda x:x[1],reverse=True)
+        sorting=sorted(mp.items(),key=lambda x:x[1],reverse=True)
         ans=[]
-        for x in selected:
+        for x in sorting:
             ans.append(x[0])
         return ans[:k]
