@@ -1,15 +1,10 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        mp={}
-        if len(s)!=len(t):return False
+        if len(s)!=len(t): return False
+        count={}
+        for ch in s:
+            count[ch]=count.get(ch,0)+1
         for ch in t:
-            mp[ch]=mp.get(ch,0)+1
-        for i in range(len(s)):
-            if s[i]  not in mp:
-                return False
-            else:
-                mp[s[i]]-=1
-            if mp[s[i]]<0:return False
-       # if any(values!=0 for values in mp.values()):return False
-        return True
+            count[ch]=count.get(ch,0)-1
+        return all(x==0 for x in count.values())
         
