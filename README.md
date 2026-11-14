@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0621-task-scheduler) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1360-number-of-days-between-two-dates](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0567-permutation-in-string) |
@@ -699,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/SurajRauniyar1/Leet_Code_DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
